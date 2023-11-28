@@ -1,1 +1,2 @@
-# ML-MODEL-DEPLOYMENT-USING-FLASK
+# py-flask-ml
+A machine learning model deployed with flask
